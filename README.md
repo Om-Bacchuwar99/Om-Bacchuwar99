@@ -48,7 +48,7 @@
 <br/>
 <br/>
 
-<h2 align="center""> <img src="stats.png" width="25"/> <em> Statistics </em> </h2>
+<h2 align="center""> <img src="icons8-statistics-ezgif.com-effects.gif" width="25"/> <em> Statistics </em> </h2>
 
 <div align = "center"> 
 
