@@ -37,6 +37,7 @@
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Plotly-000000?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly">
+  <img src="https://img.shields.io/badge/numpy-000000?style=for-the-badge&logo=numpy&logoColor=white",alt="numpy">
   <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/HubSpot-000000?style=for-the-badge&logo=hubspot&logoColor=white" alt="HubSpot Logo">
   <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" alt="C Language">
@@ -51,7 +52,8 @@
 
 <div align = "center"> 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Om-Bacchuwar99&show_icons=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&card_width=350)  ![](https://nirzak-streak-stats.vercel.app/?user=Om-Bacchuwar99&theme=dark&background=000000&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff&card_width=401)<br/><br/>
+![](https://github-readme-stats.vercel.app/api?username=Om-Bacchuwar99&show_icons=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&card_width=350)  ![](https://nirzak-streak-stats.vercel.app/?user=Om-Bacchuwar99&theme=dark&background=000000&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff&card_width=401)<br/><br/>
+
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Om-Bacchuwar99&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
 
