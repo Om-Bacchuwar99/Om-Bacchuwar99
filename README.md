@@ -45,7 +45,7 @@
   <img src="https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI Logo">
 </p>
 
-<br/>
+
 <br/>
 
 <h2 align="center""> <img src="icons8-statistics-ezgif.com-effects.gif" width="25"/> <em> Statistics </em> </h2>
