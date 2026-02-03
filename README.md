@@ -43,6 +43,7 @@
   <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" alt="C Language">
   <img src="https://img.shields.io/badge/Microsoft_Excel-000000?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
   <img src="https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI Logo">
+  <img src="https://img.shields.io/badge/Dagster-000000?style=for-the-badge&logo=dagster&logoColor=white" alt="Dagster">
 </p>
 
 
